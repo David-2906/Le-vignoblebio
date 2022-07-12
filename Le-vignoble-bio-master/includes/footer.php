@@ -16,7 +16,7 @@
               <nav class="col-list">
                 <ul>
                   <li><a href="#">Consultez notre S.A.V</a></li>
-                  <li><a href="#">LeVignobleBio.com Tout droit réservés</a></li>
+                  <li>LeVignobleBio.com Tout droit réservés. Ceci est un site e-commerce fictif pour les besoins d'une formation</li>
                 </ul>
               </nav>
             </span>
