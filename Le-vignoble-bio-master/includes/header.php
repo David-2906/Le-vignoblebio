@@ -16,9 +16,9 @@
                 Découvrez nos vins français<i class="fa fa-angle-down ml-1 font-12"></i>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="nos-vins-rouge.html">Nos vins rouges</a></li>
-                  <li><a class="dropdown-item" href="nos-vins-blanc.html">Nos vins blancs</a></li>
-                  <li><a class="dropdown-item" href="nos-vins-rose.html">Nos vins rosés</a></li>
+                  <li><a class="dropdown-item" href="nos-vins-rouge.php">Nos vins rouges</a></li>
+                  <li><a class="dropdown-item" href="nos-vins-blanc.php">Nos vins blancs</a></li>
+                  <li><a class="dropdown-item" href="nos-vins-rose.php">Nos vins rosés</a></li>
                   <li class="divider" role="separator"></li>
                   <li><a class="dropdown-item" href="#">Nos coffrets</a></li>
                   <li class="divider" role="separator"></li>

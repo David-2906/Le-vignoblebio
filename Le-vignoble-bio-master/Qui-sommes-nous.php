@@ -89,7 +89,7 @@ Le Vignoble Bio allie notre passion pour le vin et nos compétences en création
             <i class="fa fa-twitter" id="twitter"></i>
             <i class="fa fa-facebook-square" id="facebook"></i>
           </div>
-          
+
         <?php
         include 'includes/footer.php';
         ?>

@@ -18,8 +18,7 @@
         include 'includes/header.php';
     ?>    
         <!-- End Header 1 code -->
-      </div>
-    </div>
+
 
   
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
