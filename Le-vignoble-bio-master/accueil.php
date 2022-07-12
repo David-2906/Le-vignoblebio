@@ -24,28 +24,28 @@
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="images/raisins.jpg" alt="Une photo de grappes de raisin">
+            <img class="d-block w-100" src="images/pexels-luiz-m-santos-760280.jpg" width="200" height="700" alt="Une photo de grappes de raisin">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="images/fabrication.jpg" alt="Une photo de la fabrication dans la cuve à vin">
+            <img class="d-block w-100" src="images/pexels-pixabay-434311.jpg" width="00" height="700" alt="Une photo de la fabrication dans la cuve à vin">
           </div>
           <div class="carousel-item">
-          <img class="d-block w-100" src="images/cave.jpg" alt="Une photo de cave à vin">
+          <img class="d-block w-100" src="images/pexels-fotograf-jylland-2995283.jpg" width="700" height="700" alt="Une photo de cave à vin">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="images/je-vous-sers.jpg" alt="Une photo d'un homme servant du vin">
+            <img class="d-block w-100" src="images/pexels-engin-akyurt-3620231.jpg" width="700" height="700" alt="Une photo d'un homme servant du vin">
             </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="images/reserve-à-vin.jpg" alt="une photo d'exposition de bouteille de vins ">
+            <img class="d-block w-100" src="images/pexels-cottonbro-3403505.jpg" width="700" height="700" alt="une photo d'exposition de bouteille de vins ">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="images/verre-a-vin.jpg" alt="une photo d'un verre de vin ">
+            <img class="d-block w-100" src="images/pexels-brett-sayles-2606387.jpg" width="700" height="700" alt="une photo d'un verre de vin ">
           </div>
             <div class="carousel-item">
-            <img class="d-block w-100" src="images/occasion.jpg" alt="Une photo d'une célébration d'une grande occasion avec verres de vin ">
+            <img class="d-block w-100" src="images/pexels-brett-sayles-1374552.jpg" width="700" height="700" alt="Une photo d'une célébration d'une grande occasion avec verres de vin ">
           </div>
           <div class="carousel-item">
-          <img class="d-block w-100" src="images/célébration.jpg" alt="une photo d'une célébration avec verres de vin ">
+          <img class="d-block w-100" src="images/pexels-adrien-olichon-2537608.jpg" width="700" height="700" alt="une photo d'une célébration avec verres de vin ">
           </div>
           </div>
         </div>
