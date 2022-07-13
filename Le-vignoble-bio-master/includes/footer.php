@@ -5,8 +5,8 @@
               <h3 class="col-title">LE VIGNOBLE BIO</h3>
               <nav class="col-list">
                 <ul>
-                  <li><a href="mentions_legales.html">Mentions légales</a></li>
-                  <li><a href="faq.html">Consultez notre F.A.Q</a></li>
+                  <li><a href="mentions_legales.php">Mentions légales</a></li>
+                  <li><a href="faq.php">Consultez notre F.A.Q</a></li>
                 </ul>
               </nav>
             </span>

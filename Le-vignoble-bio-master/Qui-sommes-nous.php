@@ -13,11 +13,11 @@
         </head>
 
     <body>
-    <?php
+    <!-- <?php
         include 'includes/header.php';
-    ?>  
+    ?>   -->
         <div>
-        <img src="images/Qui sommes nous.png" alt="On fini à 17h, pas plus">
+        <img src="images/qui-sommes-nous2.png" alt="On fini à 17h, pas plus">
         </div>
 
         <div class="container"></div>
