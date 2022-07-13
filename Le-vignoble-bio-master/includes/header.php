@@ -23,29 +23,12 @@
                   <li><a class="dropdown-item" href="#">Nos coffrets</a></li>
                   <li class="divider" role="separator"></li>
                   <li><a class="dropdown-item" href="#">Nos promotions</a></li>
+
                   <li class="dropdown-submenu position-relative"> <a class="dropdown-toggle dropdown-item" data-toggle="dropdown" href="#">Dropdown <i class="fa fa-long-arrow-right float-right mt-1"></i></a>
-                    <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="#">Action</a></li>
-                      <li class="dropdown-submenu position-relative"> <a class="dropdown-toggle dropdown-item" href="#" data-toggle="dropdown">Dropdown <i class="fa fa-long-arrow-right float-right mt-1"></i></a>
-                        <ul class="nav navbar-nav dropdown-menu">
-                          <li class="dropdown-submenu position-relative"> <a class="dropdown-toggle dropdown-item" href="#" data-toggle="dropdown">Dropdown <i class="fa fa-long-arrow-right float-right mt-1"></i></a>
-                            <ul class="dropdown-menu">
-                              <li><a class="dropdown-item" href="#">Action</a></li>
-                              <li><a class="dropdown-item" href="#">Another action</a></li>
-                              <li><a class="dropdown-item" href="#">Something else here</a></li>
-                              <li class="divider" role="separator"></li>
-                              <li><a class="dropdown-item" href="#">Separated link</a></li>
-                              <li class="divider" role="separator"></li>
-                              <li><a class="dropdown-item" href="#">One more separated link</a></li>
-                            </ul>
-                          </li>
-                        </ul>
-                      </li>
-                    </ul>
                   </li>
                 </ul>
-              </li>
-              <li class="nav-item"><a class="nav-link" href="Qui-sommes-nous.php">Qui sommes nous</a></li>
+               </li>
+               <li class="nav-item"><a class="nav-link" href="Qui-sommes-nous.php">Qui sommes nous</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Contactez-nous</a></li>
             </ul>
             <ul class="navbar-nav ml-auto">

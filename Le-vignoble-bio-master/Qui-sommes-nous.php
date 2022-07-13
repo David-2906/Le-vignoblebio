@@ -9,13 +9,13 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="style.css">
+
         </head>
 
     <body>
-    <!-- <?php
+    <?php
         include 'includes/header.php';
-    ?>  -->
+    ?>  
         <div>
         <img src="images/Qui sommes nous.png" alt="On fini à 17h, pas plus">
         </div>

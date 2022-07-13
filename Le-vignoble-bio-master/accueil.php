@@ -27,7 +27,7 @@
             <img class="d-block w-100" src="images/pexels-luiz-m-santos-760280.jpg" width="200" height="700" alt="Une photo de grappes de raisin">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="images/pexels-pixabay-434311.jpg" width="00" height="700" alt="Une photo de la fabrication dans la cuve à vin">
+            <img class="d-block w-100" src="images/pexels-pixabay-434311.jpg" width="200" height="700" alt="Une photo de la fabrication dans la cuve à vin">
           </div>
           <div class="carousel-item">
           <img class="d-block w-100" src="images/pexels-fotograf-jylland-2995283.jpg" width="700" height="700" alt="Une photo de cave à vin">
