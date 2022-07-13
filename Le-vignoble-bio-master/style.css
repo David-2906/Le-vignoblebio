@@ -4,13 +4,18 @@ body{
 
 
 
-#carouselExampleSlidesOnly
+ #carouselExampleSlidesOnly
 {
 border-radius:500%;
 padding-top: 25px;
 padding-left: 25px;
 padding-right: 25px;
 padding-bottom: 25px;
+} 
+
+h2 {
+  text-align: center;
+  color:rgb(70, 10, 70)
 }
 
 
