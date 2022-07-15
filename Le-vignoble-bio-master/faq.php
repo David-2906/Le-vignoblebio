@@ -26,7 +26,7 @@
             <br>Nous entretenons dans la durée des relations de proximité et de confiance avec eux, les rencontrons régulièrement et travaillons sans intermédiaire, en circuit court.</p>
 
         <h3>Quelle est la différence entre un vin biologique et un vin biodynamique?</h3>  
-        <p>Voici un lien qui vous menera sur une rubrique du site qui explique la difference : <a href="Qui-sommes-nous.php"> Cliquez ici</a> </p>  
+        <p>Voici un lien qui vous menera sur une rubrique du site qui explique la difference : <a href="Qui-sommes-nous.php" target="_blank"> Cliquez ici</a> </p>  
 
         <h3>Ma commande n’arrive pas – que puis-faire ?</h3>
         <p>Au moment de l’expédition de votre commande, LeVignobleBio vous a envoyé un e-mail contenant un lien vers le site de notre transporteur.
