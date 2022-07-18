@@ -9,15 +9,17 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        
 
         </head>
 
     <body>
-    <!-- <?php
+     <!-- <?php
         include 'includes/header.php';
-    ?>   -->
+    ?>    -->
         <div>
-        <img src="images/qui-sommes-nous2.png" alt="On fini à 17h, pas plus">
+        <img src="images/qui-sommes-nous2.png" alt="Qui sommes nous">
         </div>
 
         <div class="container"></div>
@@ -84,7 +86,7 @@ Le Vignoble Bio allie notre passion pour le vin et nos compétences en création
         </div>
 
 
-            <div class="center">
+            <!-- <div class="center">
             <span><h3>Nos réseaux sociaux</h3></span>
         </div>
 
@@ -92,7 +94,7 @@ Le Vignoble Bio allie notre passion pour le vin et nos compétences en création
             <i class="fa fa-instagram" id="instagram"></i>
             <i class="fa fa-twitter" id="twitter"></i>
             <i class="fa fa-facebook-square" id="facebook"></i>
-          </div>
+          </div> -->
 
         <?php
         include 'includes/footer.php';
