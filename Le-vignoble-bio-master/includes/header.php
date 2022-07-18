@@ -19,13 +19,14 @@
                   <li><a class="dropdown-item" href="nos-vins-rouge.php">Nos vins rouges</a></li>
                   <li><a class="dropdown-item" href="nos-vins-blanc.php">Nos vins blancs</a></li>
                   <li><a class="dropdown-item" href="nos-vins-rose.php">Nos vins rosés</a></li>
+                  <li><a class="dropdown-item" href="nos-vins-rose.php">Nos vins effervescents</a></li>
                   <li class="divider" role="separator"></li>
                   <li><a class="dropdown-item" href="#">Nos coffrets</a></li>
                   <li class="divider" role="separator"></li>
                   <li><a class="dropdown-item" href="#">Nos promotions</a></li>
 
-                  <li class="dropdown-submenu position-relative"> <a class="dropdown-toggle dropdown-item" data-toggle="dropdown" href="#">Dropdown <i class="fa fa-long-arrow-right float-right mt-1"></i></a>
-                  </li>
+                    <li class="dropdown-submenu position-relative"> <a class="dropdown-toggle dropdown-item" data-toggle="dropdown" href="#">Dropdown <i class="fa fa-long-arrow-right float-right mt-1"></i></a>
+                  </li> 
                 </ul>
                </li>
                <li class="nav-item"><a class="nav-link" href="Qui-sommes-nous.php">Qui sommes nous</a></li>
