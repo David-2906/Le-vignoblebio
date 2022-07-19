@@ -4,12 +4,12 @@
         <title></title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <!-- <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css"
         integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,400;1,500&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,400;1,500&display=swap" rel="stylesheet">  -->
         <link rel="stylesheet" href="style.css"> 
         <link rel="stylesheet" href="vins.css"> 
         <link rel="stylesheet" href="style3.css">
@@ -32,11 +32,10 @@
                 </svg>
               </button>
             </div>
-          </div>
+          </div> 
 
 
-</div><div class="col-md-4 order-md-1 col-lg-3 sidebar-filter">
-    <!-- <h3 class="mt-0 mb-5">Showing <span class="text-primary">12</span> Products</h3> -->
+ <!-- </div><div class="col-md-4 order-md-1 col-lg-3 sidebar-filter">
     <h3 class="text-uppercase font-weight-bold mb-3">Trier Par</h3>
     <div class="mt-2 mb-2 pl-2">
       <div class="custom-control custom-checkbox">
@@ -94,7 +93,7 @@
    
 
 </div>
-</div>
+</div> --> 
 <!-- -------------Articles-------------- -->
     <section>
         <div class="row ">

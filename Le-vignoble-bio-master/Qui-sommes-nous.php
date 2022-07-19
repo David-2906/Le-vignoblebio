@@ -15,9 +15,9 @@
         </head>
 
     <body>
-     <!-- <?php
+      <!-- <?php
         include 'includes/header.php';
-    ?>    -->
+    ?>     -->
         <div>
         <img src="images/qui-sommes-nous2.png" alt="Qui sommes nous">
         </div>
@@ -41,7 +41,7 @@ La viticulture biodynamique répond également au cahier des charges du label fr
 Le Vignoble Bio allie notre passion pour le vin et nos compétences en création web, ce qui fait de notre site, une vitrine exclusivement à notre image .
  <br>
             
-            David ,Inés, Stéphanie, Shems 
+            David ,Ines, Stéphanie, Shems 
         </p1></h3>
         <div class="explication">
             <img src="images/vin-bio-explications.png" alt=" une photo d'explication du vin bio">

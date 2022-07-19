@@ -15,7 +15,7 @@ padding-bottom: 25px;
 
 h2 {
   text-align: center;
-  color:rgb(70, 10, 70)
+  color:green
 }
 
 
@@ -40,7 +40,7 @@ nav a:visited {
 }
 
 h1 {
-    color:rgb(116, 18, 116);
+    color:green;
     text-align: center;
 }
 
@@ -55,10 +55,10 @@ header{
 font-family: 'Roboto Mono', monospace;
 color:lightpink;
 font-weight: 300;
-}
+} 
 
 .header2.bg-success-gradiant {
-  background: lightpink;
+  background: rgb(92, 13, 79);
   /* background: -webkit-linear-gradient(legacy-direction(to right),rgb(12, 128, 93) 0%, rgb(12, 128, 93) 100%);
   background: -webkit-gradient(linear, left top, right top, from rgb(12, 128, 93), torgb(12, 128, 93));
   background: -webkit-linear-gradient(left, rgb(12, 128, 93) 0%, rgb(12, 128, 93) 100%);
@@ -72,21 +72,21 @@ font-weight: 300;
 
 .header2 .dropdown-item {
   padding: 8px 1rem;
-  color: rgb(70, 15, 70);
+  color: rgb(92, 13, 79);
 }
 
 .header2 .h2-nav .navbar-nav .nav-item .nav-link {
   padding: 12px 0px;
-  color: rgb(83, 27, 83);
+  color: white;
   font-weight: 400;
 }
 
-.header2 .h2-nav .navbar-nav .nav-item .nav-link:hover {
+/* .header2 .h2-nav .navbar-nav .nav-item .nav-link:hover {
   color:rgb(80, 24, 80);
-}
+}  */
 
 .header2 .h2-nav .navbar-nav .nav-item {
-  margin: 0 20px;
+  margin: 0 50px;
 }
 
 @media (min-width: 1024px) {
@@ -114,16 +114,16 @@ font-weight: 300;
 }
 
 .header2 .btn-dark {
-  color: rgb(151, 32, 115);
-  background-color:rgb(110, 20, 110);
-  border-color: #40343e;
-}
-
-/* .header2 .btn-dark:hover {
   color: #800080;
-  background-color: #55193e;
+  background-color:white;
   border-color: #6e1e50;
-} */
+} 
+
+ .header2 .btn-dark:hover {
+  color: #800080;
+  background-color: white;
+  border-color: #6e1e50;
+} 
 
 .header2 .h2-nav .navbar-nav .nav-item .btn {
   opacity: 0.5;
@@ -137,7 +137,7 @@ font-weight: 300;
   top: 0;
   left: 100%;
   margin-left: 0;
-  border-radius: 0.25rem;
+  border-radius: 0.25rem; 
   display: none;
 }
 
@@ -148,7 +148,7 @@ font-weight: 300;
   --input-border: #ac3097;
   --btn-bg-color: #5c1b51;
   --btn-hover-bg: #8a246b;
-  --btn-color: #70214f;
+  --btn-color: #ffffff; 
 }
 
 

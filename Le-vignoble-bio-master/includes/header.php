@@ -7,11 +7,12 @@
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#header2" aria-controls="header2" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-menu"></span>
           </button>
-          <div class="collapse navbar-collapse hover-dropdown" id="header2">
-            <ul class="navbar-nav">
-              <li class="nav-item active"><a class="nav-link" href="#"><h1>Le Vignoble bio</h1></a></li>
-              <img src="images/logo.png" alt="Une photo de notre logo">
-              <li class="nav-item dropdown position-relative">
+          <!-- <div class="collapse navbar-collapse hover-dropdown" id="header2">
+            <ul class="navbar-nav"> -->
+              <img src="images/logo1.png" alt="Une photo de notre logo">
+              <!-- <li class="nav-item active"><a class="nav-link" href="#"></a></li> -->
+              <h1>Le Vignoble bio</h1>
+              <!-- <li class="nav-item dropdown position-relative">
                 <a class="nav-link dropdown-toggle" href="#" id="h2-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Découvrez nos vins français<i class="fa fa-angle-down ml-1 font-12"></i>
                 </a>
@@ -28,11 +29,12 @@
                     <li class="dropdown-submenu position-relative"> <a class="dropdown-toggle dropdown-item" data-toggle="dropdown" href="#">Dropdown <i class="fa fa-long-arrow-right float-right mt-1"></i></a>
                   </li> 
                 </ul>
-               </li>
-               <li class="nav-item"><a class="nav-link" href="Qui-sommes-nous.php">Qui sommes nous</a></li>
-              <li class="nav-item"><a class="nav-link" href="#">Contactez-nous</a></li>
+               </li> -->
+               <!-- <li class="nav-item"><a class="nav-link" href="Qui-sommes-nous.php" target="_blank">Qui sommes nous</a></li>
+              <li class="nav-item"><a class="nav-link" href="#">Contactez-nous</a></li> -->
             </ul>
             <ul class="navbar-nav ml-auto">
+              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="nos-vins-rose.php">Nos Vins Français</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#">Espace professionnel</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#">Mon Panier</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#" data-toggle="modal" data-target="#exampleModal">Inscrivez-vous</a></li>

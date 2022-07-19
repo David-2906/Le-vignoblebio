@@ -5,8 +5,9 @@
               <h3 class="col-title">LE VIGNOBLE BIO</h3>
               <nav class="col-list">
                 <ul>
-                  <li><a href="mentions_legales.php">Mentions légales</a></li>
-                  <li><a href="faq.php">Consultez notre F.A.Q</a></li>
+                  <li><br><a href="mentions_legales.php">Mentions légales</a></li>
+                  <li><br><a href="faq.php">Consultez notre F.A.Q</a></li>
+                  <li><br><a href="faq.php">Contactez nous</a></li>
                 </ul>
               </nav>
             </span>
@@ -16,7 +17,8 @@
               <nav class="col-list">
                 <ul>
                   <li><a href="#">Consultez notre S.A.V</a></li>
-                  <li>LeVignobleBio.com Tout droit réservés. Ceci est un site e-commerce fictif pour les besoins d'une formation</li>
+                  <li>LeVignobleBio.com Tout droit réservés. 
+                    <br>Ceci est un site e-commerce fictif pour les besoins d'une formation</li>
                 </ul>
               </nav>
             </span>
