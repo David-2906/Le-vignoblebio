@@ -10,7 +10,7 @@
         <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,400;1,500&display=swap" rel="stylesheet">  -->
-        <link rel="stylesheet" href="style.css"> 
+        <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="vins.css"> 
         <link rel="stylesheet" href="style3.css">
 

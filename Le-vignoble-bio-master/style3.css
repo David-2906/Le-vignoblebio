@@ -57,7 +57,7 @@ body {
 
 
   footer {
-    background-color:rgb(141, 32, 141) ;
+    background-color:rgb(141, 32, 141) ; 
     font-size: 16px;
     background: var(--footer-bg);
     padding: 2em 4em;

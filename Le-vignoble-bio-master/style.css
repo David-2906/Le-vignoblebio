@@ -143,7 +143,7 @@ font-weight: 300;
 
 :root {
   --footer-bg: lightpink;
-  --color: #bba9bb;
+  --color: green;
   --color-smooth: #ac3097;
   --input-border: #ac3097;
   --btn-bg-color: #5c1b51;
@@ -198,6 +198,8 @@ footer ul {
   text-decoration: none;
   line-height: 1.4;
   font-weight: 400;
+  display : flex;
+  margin : 0;
 }
 
 .col-list a:hover,
@@ -223,8 +225,8 @@ footer ul {
   border-radius: 0.3em;
   transition: all 0.25s ease 0s;
   display: inline-block;
-  color: var(--color-smooth);
-}
+  color: var(--color-smooth); 
+} 
 
 .subscribe-input:focus {
   outline: none;
