@@ -16,6 +16,7 @@
         include 'includes/header.php';
     ?>
 
+    
     <h1>Mentions Légales</h1>
     <p>
         En vertu de l’article 6 de la loi n°2004-575 pour la confiance dans l’économie numérique, les informations suivantes sont mises à la disposition des utilisateurs du site www.vinibee.com :
@@ -42,6 +43,7 @@
         <br>LeVignobleBio ne pourrait à ce titre être tenu pour responsable des dommages directs ou indirects tels que, notamment, préjudice matériel, financier, perte de données ou de programme résultant de l’utilisation du site ou des sites et services qui lui sont liés.
         <br>LeVignobleBio est propriétaire du site www.levignoblebio.com et s’engage à mettre en œuvre tous les moyens nécessaires pour assurer la sécurité des informations mises à disposition sur l’espace constitué par le site.</p>
 
+        <a href="accueil.php"><h3>Retour à l'accueil</h3></a>
     <?php
             include 'includes/footer.php';
             ?>

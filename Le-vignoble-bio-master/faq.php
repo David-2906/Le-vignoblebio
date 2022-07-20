@@ -43,6 +43,8 @@
         <p>Il est préférable de laisser les bouteilles reposer au moins 1 ou 2 jours dans un endroit frais (entre 12 et 15°C) de les ouvrir.
             <br>Pensez également à les carafer une heure avant dégustation.</p>
 
+            <a href="accueil.php"><h3>Retour à l'accueil</h3></a>
+
             <?php
             include 'includes/footer.php';
             ?>

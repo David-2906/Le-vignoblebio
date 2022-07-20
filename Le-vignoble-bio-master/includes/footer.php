@@ -7,7 +7,7 @@
                 <ul>
                   <li><a href="mentions_legales.php">Mentions légales</a></li>
                   <li><a href="faq.php">Consultez notre F.A.Q</a></li>
-                  <li><a href="#">Contactez nous</a></li>
+                  <li><a href="contactez-nous.php">Contactez nous</a></li>
                 </ul>
               </nav>
             </span>

@@ -11,7 +11,7 @@
             <ul class="navbar-nav"> -->
               <img src="images/logo1.png" alt="Une photo de notre logo">
               <!-- <li class="nav-item active"><a class="nav-link" href="#"></a></li> -->
-              <a href="accueil.php"><h1>Le Vignoble bio</h1>
+              <h1>Le Vignoble bio</h1>
               <!-- <li class="nav-item dropdown position-relative">
                 <a class="nav-link dropdown-toggle" href="#" id="h2-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Découvrez nos vins français<i class="fa fa-angle-down ml-1 font-12"></i>
