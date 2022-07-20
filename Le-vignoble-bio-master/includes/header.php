@@ -11,7 +11,7 @@
             <ul class="navbar-nav"> -->
               <img src="images/logo1.png" alt="Une photo de notre logo">
               <!-- <li class="nav-item active"><a class="nav-link" href="#"></a></li> -->
-              <h1>Le Vignoble bio</h1>
+              <a href="accueil.php"><h1>Le Vignoble bio</h1>
               <!-- <li class="nav-item dropdown position-relative">
                 <a class="nav-link dropdown-toggle" href="#" id="h2-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Découvrez nos vins français<i class="fa fa-angle-down ml-1 font-12"></i>
@@ -34,12 +34,13 @@
               <li class="nav-item"><a class="nav-link" href="#">Contactez-nous</a></li> -->
             </ul>
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="nos-vins-rose.php">Nos Vins Français</a></li>
+              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="nos_vins_francais.php">Nos Vins Français</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="Qui-sommes-nous.php" target="_blank">Qui Sommes Nous ?</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#">Espace Professionnel</a></li>
-              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#">Mon Panier</a></li>
+              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="account.php">Se connecter</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#" data-toggle="modal" data-target="#exampleModal">Inscrivez-vous</a></li>
-              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="account.php">Mon compte</a></li>  
+              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#">Mon Panier</a></li>
+                
             </ul>
           </div>
         </nav>
@@ -71,6 +72,10 @@
                 <div class="row mb-3">
                     <label class="col-12 col-md-3 pl-0" for="password">Mot de passe</label>
                     <input class="col-12 col-md-9" type="password" name="password" id="password" placeholder="Mot de passe">
+                </div>
+                <div class="row mb-3">
+                    <label class="col-12 col-md-3 pl-0" for="password">Date de naissance</label>
+                    <input class="col-12 col-md-9" type="password" name="password" id="password" placeholder="Date de naissance">
                 </div>
                 <input type="hidden" name="action" value="signup">
                 <div class="row mb-3 justify-content-end">

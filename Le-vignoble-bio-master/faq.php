@@ -4,11 +4,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css"
+     integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="style4.css">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>FAQ</title>
 </head>
 <body>
+<?php
+        include 'includes/header.php';
+    ?>
+
     <h1>Foire Aux Questions</h1>
         <h3>Pourquoi faut-il se creer un compte sur LeVignobleBio ?</h3>
         <p>Vous créer un compte sur LeVignobleBio vous permet de passer des commandes mais vous donne également accès à des fonctionnalités supplémentaires : 
@@ -33,7 +39,7 @@
             <br>Cliquez sur ce lien, il vous permettra de visualiser le N° de suivi de votre colis ainsi que l’avancement de la livraison.
             <br>En cas de souci (perte du mail), contactez-nous.</p>
           
-        <h3>Est’il préférable d’attendre avant de consommer les vins livrés ou puis-je les ouvrir rapidement ?</h3>
+        <h3>Est-il préférable d’attendre avant de consommer les vins livrés ou puis-je les ouvrir rapidement ?</h3>
         <p>Il est préférable de laisser les bouteilles reposer au moins 1 ou 2 jours dans un endroit frais (entre 12 et 15°C) de les ouvrir.
             <br>Pensez également à les carafer une heure avant dégustation.</p>
 
@@ -41,4 +47,15 @@
             include 'includes/footer.php';
             ?>
 </body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </html>
