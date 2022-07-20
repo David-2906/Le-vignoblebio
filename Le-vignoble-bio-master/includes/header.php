@@ -35,11 +35,11 @@
             </ul>
             <ul class="navbar-nav ml-auto">
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="nos-vins-rose.php">Nos Vins Français</a></li>
-              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#">Espace professionnel</a></li>
+              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="Qui-sommes-nous.php" target="_blank">Qui Sommes Nous ?</a></li>
+              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#">Espace Professionnel</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#">Mon Panier</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#" data-toggle="modal" data-target="#exampleModal">Inscrivez-vous</a></li>
-              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="account.php">Mon compte</a></li>
-              
+              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="account.php">Mon compte</a></li>  
             </ul>
           </div>
         </nav>

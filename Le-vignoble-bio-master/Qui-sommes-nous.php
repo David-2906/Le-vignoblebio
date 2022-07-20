@@ -4,26 +4,26 @@
         <title>Qui sommes nous</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="style2.css" rel="stylesheet">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="style.css" rel="stylesheet">
+        <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+        <!-- <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
         
         
 
         </head>
 
     <body>
-      <!-- <?php
+       <!-- <?php
         include 'includes/header.php';
-    ?>     -->
+    ?> -->
         <div>
         <img src="images/qui-sommes-nous2.png" alt="Qui sommes nous">
         </div>
-
+<!-- 
         <div class="container"></div>
-        <div class="circle"></div>
+        <div class="circle"></div> -->
 
         <h1> Notre histoire, </h1>
 
@@ -43,21 +43,21 @@ Le Vignoble Bio allie notre passion pour le vin et nos compétences en création
             
             David ,Ines, Stéphanie, Shems 
         </p1></h3>
-        <div class="explication">
+        <!-- <div class="explication">
             <img src="images/vin-bio-explications.png" alt=" une photo d'explication du vin bio">
             <img src="images/vin-bio-choisir.png" alt=" une photo d'introduction à choisir">
             <img src="images/vin-biodyna-explications.png" alt=" une photo d'explication du vin biodynamique">
-        </div>
-        
+        </div> -->
+<!--         
         <h2 style="color: blueviolet"> Pour en savoir plus sur la fabrication du vin biologique et biodynamique :</h2>
         <div class="btn-group pdf-link" role="group" aria-label="Basic example"> 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/dIh4sLDYFHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <!-- <a href="https://www.youtube.com/watch?v=dIh4sLDYFHc" class="btn btn-secondary"><h2>Veuillez cliquer ici</h2></a>  -->
-            <a download href="#" class="btn btn-secondary download" title="download">&dArr;</a>
-        </div>
+            <!-- <a download href="#" class="btn btn-secondary download" title="download">&dArr;</a>
+        </div> --> -->
 
 
-        <div class="container-fluid">
+        <!-- <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12 d-flex justify-content-center right-bck">
                     <div class="registration-right">
@@ -83,22 +83,22 @@ Le Vignoble Bio allie notre passion pour le vin et nos compétences en création
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
 
-        <?php
+        <!-- <?php
         include 'includes/footer.php';
-        ?>
+        ?> -->
 
         
     </body>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://use.fontawesome.com/releases/v5.8.1/css/all.css"></script>
+    <script src="https://use.fontawesome.com/releases/v5.8.1/css/all.css"></script> -->
     
 </html>

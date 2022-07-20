@@ -8,7 +8,6 @@
                   <li><a href="mentions_legales.php">Mentions légales</a></li>
                   <li><a href="faq.php">Consultez notre F.A.Q</a></li>
                   <li><a href="#">Contactez nous</a></li>
-                  <li><a href="Qui-sommes-nous.php" target="_blank">Qui sommes nous</a></li>
                 </ul>
               </nav>
             </span>
