@@ -23,13 +23,13 @@
                <div class="row">
                     <div class="col-md-6">
                         <div class="form-group">
-                            <input type="text" name="txtName" class="form-control" placeholder="Votre Nom *" value="" />
+                            <input type="text" name="txtName" class="form-control" placeholder="Votre Nom Prénom *" value="" />
                         </div>
                         <div class="form-group">
-                            <input type="text" name="txtEmail" class="form-control" placeholder="Votre Prénom *" value="" />
+                            <input type="text" name="txtEmail" class="form-control" placeholder="Votre Email *" value="" />
                         </div>
                         <div class="form-group">
-                            <input type="text" name="txtPhone" class="form-control" placeholder="Votre Email *" value="" />
+                            <input type="text" name="txtPhone" class="form-control" placeholder="Votre Numero *" value="" />
                         </div>
                         <div class="form-group">
                             <input type="submit" name="btnSubmit" class="btnContact" value="Envoyez" />
@@ -59,6 +59,6 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-</html>
+
 </body>
 </html>
