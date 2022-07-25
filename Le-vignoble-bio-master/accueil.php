@@ -100,8 +100,8 @@
             </div>
         </div>
         <div class="ft">
-            <div class="btn btn-outline">Une suggestion ? Ou un avis sur votre commande? Dites le nous!
-            </div>
+            <div class="btn btn-outline">-Une suggestion ? Ou un avis sur votre commande? Contactez nous !
+    </div> 
         </div>
     </div>
 

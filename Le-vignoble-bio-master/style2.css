@@ -21,6 +21,10 @@ p{
 div{
     text-align:center;
 }
+
+.video{
+    justify-content: center;
+}
  /* .container{
 
     position: absolute;

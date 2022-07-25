@@ -16,7 +16,7 @@
               <h3 class="col-title">INFORMATION</h3>
               <nav class="col-list">
                 <ul>
-                  <li><a href="#">Consultez notre S.A.V</a></li>
+                  <li><a href="vie-prive-et-cookie.php">Vie privée et cookies</a></li>
                   <li>LeVignobleBio.com Tout droit réservés. 
                     <br>Ceci est un site e-commerce fictif pour les besoins d'une formation</li>
                 </ul>

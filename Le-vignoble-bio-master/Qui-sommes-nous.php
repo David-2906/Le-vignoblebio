@@ -45,6 +45,7 @@ Le Vignoble Bio allie notre passion pour le vin et nos compétences en création
 
         <h2 style="color: blueviolet"> Pour en savoir plus sur la fabrication du vin biologique et biodynamique :</h2>
 
+      <div class="video">
         <div class="btn-group pdf-link" role="group" aria-label="Basic example"> 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/dIh4sLDYFHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
@@ -57,6 +58,9 @@ Le Vignoble Bio allie notre passion pour le vin et nos compétences en création
           <div class="btn-group pdf-link" role="group" aria-label="Basic example"> 
             <iframe width="560" height="315" src="https://www.youtube.com/embed/rRmKXu5703g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
+        </div>   
+
+        <a href="accueil.php"><h3>Retour à l'accueil</h3></a>
 
     <?php
           include 'includes/footer.php';

@@ -35,7 +35,7 @@
             </ul>
             <ul class="navbar-nav ml-auto">
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="nos_vins_francais.php">Nos Vins Français</a></li>
-              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="Qui-sommes-nous.php" target="_blank">Qui Sommes Nous ?</a></li>
+              <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="Qui-sommes-nous.php">Qui Sommes Nous ?</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#">Espace Professionnel</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="account.php">Se connecter</a></li>
               <li class="nav-item"><a class="btn rounded-pill btn-dark py-2 px-4" href="#" data-toggle="modal" data-target="#exampleModal">Inscrivez-vous</a></li>
